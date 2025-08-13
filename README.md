@@ -2,6 +2,9 @@
 
 A cross-platform desktop application for batch converting MP3 files to Opus format with metadata preservation, album art embedding, and audio visualizations.
 
+> [!NOTE]
+> Coded to life with help from Claude 4.1 Opus (hehe. OPUS with Opus)
+
 ## Features
 
 - **Batch Conversion**: Convert entire MP3 libraries to Opus format
