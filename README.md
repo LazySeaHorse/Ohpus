@@ -134,3 +134,8 @@ MIT License - See LICENSE file for details
 - FFmpeg team for the excellent multimedia framework
 - Opus codec developers for the superior audio codec
 - librosa developers for audio analysis tools
+
+## Alternatives
+
+- fre:ac (Windows/macOS/Linux/FreeBSD): Open source, batch converter, Opus support, preserves tags, integrated tag editor with cover art, multi‑core, can convert whole libraries while keeping folder structure.
+- foobar2000 (Windows/macOS): Extremely good batch converter with Opus (install the Free Encoder Pack). Great metadata handling; no analysis visuals.
