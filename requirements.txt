@@ -1,0 +1,7 @@
+librosa
+soundfile
+numpy
+scipy
+matplotlib
+mutagen
+Pillow
