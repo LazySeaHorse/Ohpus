@@ -15,9 +15,9 @@ A cross-platform desktop application for batch converting MP3 files to Opus form
 - **ReplayGain Support**: Optional track/album gain normalization
 - **Cross-Platform**: Works on Windows, macOS, and Linux
 
+[![Ohpus-3.png](https://i.postimg.cc/SNc7JKrY/Ohpus-3.png)](https://postimg.cc/tYCVcp89)
+[![Ohpus-2.png](https://i.postimg.cc/P54WQF0t/Ohpus-2.png)](https://postimg.cc/188V9M9T)
 [![Ohpus-1.png](https://i.postimg.cc/2Smdvfcc/Ohpus-1.png)](https://postimg.cc/9r8q5sjZ)
-[![Ohpus-2.png](https://i.postimg.cc/188V9M9T/Ohpus-2.png)](https://postimg.cc/188V9M9T)
-[![Ohpus-3.png](https://i.postimg.cc/tYCVcp89/Ohpus-3.png)](https://postimg.cc/tYCVcp89)
 
 ## Quick Start
 
